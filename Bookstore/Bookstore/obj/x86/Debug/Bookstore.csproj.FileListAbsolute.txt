@@ -1,0 +1,39 @@
+c:\users\andre\documents\visual studio 2010\Projects\Bookstore\Bookstore\bin\Debug\Bookstore.exe
+c:\users\andre\documents\visual studio 2010\Projects\Bookstore\Bookstore\bin\Debug\Bookstore.pdb
+c:\users\andre\documents\visual studio 2010\Projects\Bookstore\Bookstore\obj\x86\Debug\Bookstore.Form1.resources
+c:\users\andre\documents\visual studio 2010\Projects\Bookstore\Bookstore\obj\x86\Debug\Bookstore.Properties.Resources.resources
+c:\users\andre\documents\visual studio 2010\Projects\Bookstore\Bookstore\obj\x86\Debug\Bookstore.csproj.GenerateResource.Cache
+c:\users\andre\documents\visual studio 2010\Projects\Bookstore\Bookstore\obj\x86\Debug\Bookstore.exe
+c:\users\andre\documents\visual studio 2010\Projects\Bookstore\Bookstore\obj\x86\Debug\Bookstore.pdb
+c:\users\andre\documents\visual studio 2010\Projects\Bookstore\Bookstore\obj\x86\Debug\Bookstore.AddForm.resources
+C:\Users\Andre\documents\visual studio 2010\Projects\Bookstore\Bookstore\obj\x86\Debug\Bookstore.csprojResolveAssemblyReference.cache
+C:\Users\Andre\documents\visual studio 2010\Projects\Bookstore\Bookstore\bin\Debug\Bookstore.exe.manifest
+C:\Users\Andre\documents\visual studio 2010\Projects\Bookstore\Bookstore\bin\Debug\Bookstore.application
+C:\Users\Andre\documents\visual studio 2010\Projects\Bookstore\Bookstore\obj\x86\Debug\Bookstore.exe.manifest
+C:\Users\Andre\documents\visual studio 2010\Projects\Bookstore\Bookstore\obj\x86\Debug\Bookstore.application
+C:\Users\User\Downloads\Bookstore (1)\Bookstore (1)\Bookstore\obj\x86\Debug\Bookstore.exe
+C:\Users\User\Downloads\Bookstore (1)\Bookstore (1)\Bookstore\obj\x86\Debug\Bookstore.pdb
+C:\Users\User\Downloads\Bookstore (1)\Bookstore (1)\Bookstore\bin\Debug\Bookstore.exe.manifest
+C:\Users\User\Downloads\Bookstore (1)\Bookstore (1)\Bookstore\bin\Debug\Bookstore.application
+C:\Users\User\Downloads\Bookstore (1)\Bookstore (1)\Bookstore\bin\Debug\Bookstore.exe
+C:\Users\User\Downloads\Bookstore (1)\Bookstore (1)\Bookstore\bin\Debug\Bookstore.pdb
+C:\Users\User\Downloads\Bookstore (1)\Bookstore (1)\Bookstore\obj\x86\Debug\Bookstore.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\Bookstore (1)\Bookstore (1)\Bookstore\obj\x86\Debug\Bookstore.AddForm.resources
+C:\Users\User\Downloads\Bookstore (1)\Bookstore (1)\Bookstore\obj\x86\Debug\Bookstore.Form1.resources
+C:\Users\User\Downloads\Bookstore (1)\Bookstore (1)\Bookstore\obj\x86\Debug\Bookstore.Properties.Resources.resources
+C:\Users\User\Downloads\Bookstore (1)\Bookstore (1)\Bookstore\obj\x86\Debug\Bookstore.csproj.GenerateResource.Cache
+C:\Users\User\Downloads\Bookstore (1)\Bookstore (1)\Bookstore\obj\x86\Debug\Bookstore.exe.manifest
+C:\Users\User\Downloads\Bookstore (1)\Bookstore (1)\Bookstore\obj\x86\Debug\Bookstore.application
+C:\Users\User\Downloads\Bookstore\Bookstore\obj\x86\Debug\Bookstore.exe
+C:\Users\User\Downloads\Bookstore\Bookstore\obj\x86\Debug\Bookstore.pdb
+C:\Users\User\Downloads\Bookstore\Bookstore\bin\Debug\Bookstore.exe.manifest
+C:\Users\User\Downloads\Bookstore\Bookstore\bin\Debug\Bookstore.application
+C:\Users\User\Downloads\Bookstore\Bookstore\bin\Debug\Bookstore.exe
+C:\Users\User\Downloads\Bookstore\Bookstore\bin\Debug\Bookstore.pdb
+C:\Users\User\Downloads\Bookstore\Bookstore\obj\x86\Debug\Bookstore.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\Bookstore\Bookstore\obj\x86\Debug\Bookstore.AddForm.resources
+C:\Users\User\Downloads\Bookstore\Bookstore\obj\x86\Debug\Bookstore.Form1.resources
+C:\Users\User\Downloads\Bookstore\Bookstore\obj\x86\Debug\Bookstore.Properties.Resources.resources
+C:\Users\User\Downloads\Bookstore\Bookstore\obj\x86\Debug\Bookstore.csproj.GenerateResource.Cache
+C:\Users\User\Downloads\Bookstore\Bookstore\obj\x86\Debug\Bookstore.exe.manifest
+C:\Users\User\Downloads\Bookstore\Bookstore\obj\x86\Debug\Bookstore.application
